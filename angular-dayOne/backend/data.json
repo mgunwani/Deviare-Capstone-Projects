@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "King Kochhar",
+      "email": "king.kochhar@gmail.com",
+      "username": "king",
+      "password": "123456"
+    },
+    {
+      "id": 1002,
+      "name": "Kartik Sharma",
+      "email": "kartik@gmail.com",
+      "type": "Admin",
+      "username": "kartik",
+      "password": "123456"
+    },
+    {
+      "id": 1003,
+      "name": "Gautam Bhalla",
+      "email": "gautam@gmail.com",
+      "type": "User",
+      "username": "gautam",
+      "password": "123456"
+    }
+  ]
+}

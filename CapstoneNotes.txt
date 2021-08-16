@@ -1,0 +1,28 @@
+
+	ng new angular-dayOne
+	cd angular-dayOne
+	ng serve -o
+	
+	Error: Cannot find module '@angular-devkit/build-angular/package.json'
+	
+	npm install
+	npm install --only=dev
+	ng serve -o
+	
+---------------------------------------
+
+	ng generate component main (ROOT)
+	ng generate component home 
+	ng generate component products
+	ng generate component login
+	ng generate component register
+	
+	ng generate class models/user
+	ng generate service services/auth-guard
+	
+
+	npm install bootstrap
+	npm install jquery
+	
+---------------------------------------
+
