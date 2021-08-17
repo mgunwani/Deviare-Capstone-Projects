@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "King Kochhar",
+      "email": "king.kochhar@gmail.com",
+      "type": "User",
+      "username": "king",
+      "password": "123456"
+    },
+    {
+      "id": 1002,
+      "name": "Kartik Sharma",
+      "email": "kartik@gmail.com",
+      "type": "Admin",
+      "username": "kartik",
+      "password": "123456"
+    }
+  ], 
+  "products": [
+    {
+      "id": 5001,
+      "name": "Product One",
+      "price": 10000,
+      "quantity": 2,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "Product Two",
+      "price": 22000,
+      "quantity": 5,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5003,
+      "name": "Product Three",
+      "price": 15000,
+      "quantity": 6,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5004,
+      "name": "Product One",
+      "price": 10000,
+      "quantity": 2,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5005,
+      "name": "Product Two",
+      "price": 22000,
+      "quantity": 5,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5006,
+      "name": "Product Three",
+      "price": 15000,
+      "quantity": 6,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    }
+  ]
+}
