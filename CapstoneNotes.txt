@@ -9,16 +9,24 @@
 	npm install --only=dev
 	ng serve -o
 	
+	npm install json-server --global
+	
 ---------------------------------------
 
 	ng generate component main (ROOT)
 	ng generate component home 
-	ng generate component products
 	ng generate component login
 	ng generate component register
+	ng generate component products
+	ng generate component product-detail
+	ng generate component cart
 	
 	ng generate class models/user
+	ng generate class models/product
+	
 	ng generate service services/auth-guard
+	ng generate service services/product
+	ng generate service services/cart
 	
 
 	npm install bootstrap
